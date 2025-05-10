@@ -25,3 +25,4 @@ Vá para a seção [estrutura do curso](./_course-structure_.md).
 ___
 
 Este é um curso da **Escola Talking About Testing**.
+
